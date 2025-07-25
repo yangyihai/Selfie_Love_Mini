@@ -4,10 +4,7 @@ Selfie Love 是一款设计精美、简约易用的自拍小程序。它允许�
 =======
 # Selfie Love（自拍爱心）
 
-<div align="center">
-  <img src="static/icons/logo.png" alt="Selfie Love Logo" width="120" />
-  <h3>让你的眼中有星星和爱心</h3>
-</div>
+D:\VS CODE\花花的无聊工具\Selfie_Love\static\images\logo.png
 
 ## 📱 产品简介
 
